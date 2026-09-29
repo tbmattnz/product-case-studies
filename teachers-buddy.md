@@ -49,7 +49,8 @@ The diagram deliberately omits infrastructure and individual service details; it
 
 ## Relevance to contract work
 
+For a closer look at document ingestion, retrieval and source references, read the **[library case study](library.md)** and try the **[standalone search demonstration](https://tbmattnz.github.io/library-search/)**.
+
 This experience transfers to AI-assisted business tools, document and content workflows, API integration, and improvements to an existing product interface.
 
 The commercial source remains private. [Enquiry Desk](https://github.com/tbmattnz/ai-enquiry-crm) provides a separate public example of my approach to a small AI-assisted workflow.
-
